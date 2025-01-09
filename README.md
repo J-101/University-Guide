@@ -1,4 +1,4 @@
-*Note this was originally created by me in a private repository for a school project, but then was transferred to this repository in order to be able to be viewed.*
+*Note this was originally created by me in a private repository for a school project, but then was transferred to this repository in order for it to be able to be viewed.*
 
 **Title:**
 University Guide

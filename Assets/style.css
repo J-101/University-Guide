@@ -1,0 +1,21 @@
+/* Styles */
+
+.bordered-section {
+ border: 2px solid #007bff;
+ border-radius: 8px;
+ padding: 10px;
+ margin-bottom: 20px;
+}
+
+.bordered-section h4 {
+ margin-top: 0;
+}
+
+.header-section {
+ font-size: 4rem;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ color: black;
+ font-weight: bold;
+ text-align: center;
+ margin-bottom: 20px;
+}

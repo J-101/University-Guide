@@ -1,0 +1,8 @@
+dash
+dash-bootstrap-components
+pandas
+plotly
+pymongo
+neo4j
+mysql-connector-python
+sqlalchemy
